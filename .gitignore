@@ -1,0 +1,7 @@
+*.idea
+*.class
+*.jar
+*.lst
+*.original
+/target/
+/bin/
